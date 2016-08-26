@@ -13,7 +13,7 @@ do
 
 function run(msg, matches)
 local reply_id = msg['id']
-local text = 'Welcome to BlackPlus!\n\n>To get a new BlackPlus group, contact a support group:\n https://telegram.me/joinchat/A2ETvD160xvsnwhJ3eQk0Q\n\nFor more information, check out our channels:\n\nChannel : @Black_CH\nSite : BlackPlus.ir \n\nUse #superhelp command to show bot commands!!\n\n#Thanks_for_using @BlackPlus!'
+local text = 'Welcome to MeGa MaXiMuS!\n\n>To get a new BlackPlus group, contact @pedaret or @E_Z_I_O \n\nUse #superhelp command to show bot commands!!\n\n#Thanks_for_using @Xxmaximus_botxX!'
 if matches [1] == 'start' then
 reply_msg(reply_id, text, ok_cb, false)
 end
