@@ -262,6 +262,15 @@ function create_config( )
     "ToSticker(Text_to_stick)",
     "Block",
     "InGroups",
+    "timemute",
+    "keepcalm",
+    "saveplug",
+    "love",
+    "fwd-warn",
+    "fun",
+    "clean-all",
+    "clean-deleted",
+    
     },
     sudo_users = {170172168,207014583},--Sudo users
     moderation = {data = 'data/moderation.json'},
